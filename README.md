@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##note
+The site is not designed to be pretty, its just used as an easy way to test out different react components created
 
 ## Available Scripts
 
